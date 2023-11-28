@@ -2,4 +2,4 @@
 
 
 for i in range(0, 10):
-    print("No copiare en calse de programacion")
+    print("Estare atento a las explicaciones para no preguntar lo mismo 20 veces")
